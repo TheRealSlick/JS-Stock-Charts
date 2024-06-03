@@ -9,7 +9,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "chart.js": "^4.4.1",
+    "chart.js": "^4.4.3",
     "live-server": "^1.1.0"
   }
 }
